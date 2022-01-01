@@ -3,7 +3,10 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6 -> Syntax Javascript yang baru
   * Framework Javascript
+   ^ Vue
 - Struktur Data Dasar
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlogs
+- Phyton
