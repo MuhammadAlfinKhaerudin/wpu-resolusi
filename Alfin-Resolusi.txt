@@ -1,0 +1,5 @@
+Hallo salam kenal, nama saya Alfin dari karawang
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript
+- Bekerja di start-up
